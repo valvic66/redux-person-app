@@ -1,0 +1,5 @@
+[
+    {"id": 0, "name": "Valentin Micu", "age": 20, "job": "Coder"},
+    {"id": 1, "name": "Victoria Micu", "age": 18, "job": "Accountant"},
+    {"id": 2, "name": "Luca Micu", "age": 10, "job": "Streamer"}
+]
